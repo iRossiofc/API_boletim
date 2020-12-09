@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API_boletim", "API_boletim.csproj", "{F12BCBAC-0BC6-4925-B64B-5AF87D39F4D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F12BCBAC-0BC6-4925-B64B-5AF87D39F4D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F12BCBAC-0BC6-4925-B64B-5AF87D39F4D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F12BCBAC-0BC6-4925-B64B-5AF87D39F4D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F12BCBAC-0BC6-4925-B64B-5AF87D39F4D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F57423E-25DF-47F9-8BD7-19D2F9747B50}
+	EndGlobalSection
+EndGlobal
